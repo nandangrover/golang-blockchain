@@ -1,3 +1,5 @@
+.DS_STORE
+tmp
 # Binaries for programs and plugins
 *.exe
 *.exe~
